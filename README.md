@@ -10,89 +10,72 @@
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
-│   │   ├── .ipynb
+│   │   ├── Quest01.ipynb
 │   │   └── README.md
-|		|
-|		├── Quest02
-│   │   ├── .ipynb
+│   ├── Quest02
+│   │   ├── Quest02.ipynb
 │   │   └── README.md
-|		|
-|		├── Quest03
-│   │   ├── .ipynb
-│   │   └── README.mdd
-|   |
-|		├── Quest04
-│   │   ├── .ipynb
+│   ├── Quest03
+│   │   ├── Quest03.ipynb
 │   │   └── README.md
-|   |
-|		├── Quest05
-│   │   ├── .ipynb
+│   ├── Quest04
+│   │   ├── Quest04.ipynb
 │   │   └── README.md
-|   |
-|		├── Quest06
-│   │   ├── .ipynb
+│   ├── Quest05
+│   │   ├── Quest05.ipynb
 │   │   └── README.md
-|   |
-|		├── Quest07
-│   │   ├── .ipynb
+│   ├── Quest06
+│   │   ├── Quest06.ipynb
 │   │   └── README.md
-|   |
+│   ├── Quest07
+│   │   ├── Quest07.ipynb
+│   │   └── README.md
 │   └── Quest08
-│       ├── .ipynb
+│       ├── Quest08.ipynb
 │       └── README.md
-|
+│
 ├── Exploration
-|		├── EX01
-│   │   ├── .ipynb
+│   ├── EX01
+│   │   ├── EX01.ipynb
 │   │   └── README.md
-|   | 
-|		├── EX02
-│   │   ├── .ipynb
+│   ├── EX02
+│   │   ├── EX02.ipynb
 │   │   └── README.md
-|   |
-|		├── EX03
-│   │   ├── .ipynb
+│   ├── EX03
+│   │   ├── EX03.ipynb
 │   │   └── README.md
-|   |
-|		├── EX04
-│   │   ├── .ipynb
+│   ├── EX04
+│   │   ├── EX04.ipynb
 │   │   └── README.md
-|   |
-|		├── EX05
-│   │   ├── .ipynb
+│   ├── EX05
+│   │   ├── EX05.ipynb
 │   │   └── README.md
-|   |
-|		├── EX06
-│   │   ├── .ipynb
+│   ├── EX06
+│   │   ├── EX06.ipynb
 │   │   └── README.md
-|   └── Ex07
-|        ├── .ipynb
-|        └── README.md
-|
-├── GoingDeeper
-|		├── EX01
-│   │   ├── .ipynb
-│   │   └── README.md
-|   | 
-|		├── EX02
-│   │   ├── .ipynb
-│   │   └── README.md
-|   |
-|		├── EX03
-│   │   ├── .ipynb
-│   │   └── README.md
-|   |
-|		├── EX04
-│   │   ├── .ipynb
-│   │   └── README.md
-|   |
-|		├── EX05
-│   │   ├── .ipynb
-│   │   └── README.md
-|   |
-|		├── EX06
-│   │   ├── .ipynb
-│   │   └── README.md
-|   └── Ex07
-|        ├── .ipynb
-|        └── README.md
+│   └── EX07
+│       ├── EX07.ipynb
+│       └── README.md
+│
+└── GoingDeeper
+    ├── EX01
+    │   ├── EX01.ipynb
+    │   └── README.md
+    ├── EX02
+    │   ├── EX02.ipynb
+    │   └── README.md
+    ├── EX03
+    │   ├── EX03.ipynb
+    │   └── README.md
+    ├── EX04
+    │   ├── EX04.ipynb
+    │   └── README.md
+    ├── EX05
+    │   ├── EX05.ipynb
+    │   └── README.md
+    ├── EX06
+    │   ├── EX06.ipynb
+    │   └── README.md
+    └── EX07
+        ├── EX07.ipynb
+        └── README.md
