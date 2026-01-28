@@ -1,0 +1,16 @@
+genre_txt = [
+    'synopsis_SF.txt', 'synopsis_family.txt', 'synopsis_show.txt',
+    'synopsis_horror.txt', 'synopsis_etc.txt', 'synopsis_documentary.txt',
+    'synopsis_drama.txt', 'synopsis_romance.txt', 'synopsis_musical.txt',
+    'synopsis_mystery.txt', 'synopsis_crime.txt', 'synopsis_historical.txt',
+    'synopsis_western.txt', 'synopsis_adult.txt', 'synopsis_thriller.txt',
+    'synopsis_animation.txt', 'synopsis_action.txt', 'synopsis_adventure.txt',
+    'synopsis_war.txt', 'synopsis_comedy.txt', 'synopsis_fantasy.txt'
+]
+
+genre_name = [
+    'SF', '가족', '공연', '공포(호러)', '기타', '다큐멘터리', '드라마',
+    '멜로로맨스', '뮤지컬', '미스터리', '범죄', '사극', '서부극(웨스턴)',
+    '성인물(에로)', '스릴러', '애니메이션', '액션', '어드벤처',
+    '전쟁', '코미디', '판타지'
+]
