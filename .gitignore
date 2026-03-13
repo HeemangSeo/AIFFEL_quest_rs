@@ -2,3 +2,4 @@
 *.pth
 *.h5
 data/
+*.memmap
