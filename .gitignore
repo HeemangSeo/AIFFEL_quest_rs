@@ -3,3 +3,8 @@
 *.h5
 data/
 *.memmap
+chatgpt
+KoChatGPT
+models
+results
+test
